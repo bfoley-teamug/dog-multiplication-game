@@ -1,0 +1,35 @@
+@import 'https://fonts.googleapis.com/css?family=Poppins:400,700';
+
+body {
+  background: linear-gradient(150deg, white 80%, #899499);
+  color: #71797E;
+  font-family: 'Montserrat', sans-serif;
+ }
+
+h1 {
+  margin: 40px 0 20px;
+  font-size: 40px;
+}
+
+h3 {
+  margin: 10px 0;
+  font-size: 22px;
+}
+
+p {
+  font-size: 18px;
+}
+
+img {
+  float: right;
+}
+
+button {
+  color: white;
+  cursor: pointer;
+  margin: 1em .6em;
+  padding: .45em 1em;
+  border-radius: .3em;
+  height: 60px;
+  width: 100px;
+}
